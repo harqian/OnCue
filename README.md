@@ -2,6 +2,8 @@
 
 Your AI-powered interview wingman. OnCue listens to interview questions in real-time and surfaces relevant memories from your experience vault exactly when you need them.
 
+[![DEMO](https://img.youtube.com/vi/4UaQEB1b84E/maxresdefault.jpg)](https://www.youtube.com/watch?v=4UaQEB1b84E)
+
 ## What It Does
 
 OnCue uses live audio transcription to detect interview questions and automatically pulls up the most relevant information from your personal knowledge base using vector search. Think of it as having all your best stories, projects, and accomplishments on standby—appearing right on cue.
